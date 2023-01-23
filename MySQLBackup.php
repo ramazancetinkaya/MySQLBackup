@@ -1,13 +1,13 @@
 <?php
 
 /**
-* MySQLBackup - A class to backup specified MySQL databases and tables
-*
-* @author [ramazancetinkaya]
-* @date [23.01.2023]
-*
-* Please note, this class is only a demonstration and should be used with caution, you should test it before using on a production environment.
-*/
+ * MySQLBackup - A class to backup specified MySQL databases and tables
+ *
+ * @author [ramazancetinkaya]
+ * @date [23.01.2023]
+ *
+ * Please note, this class is only a demonstration and should be used with caution, you should test it before using on a production environment.
+ */
 
 class MySQLBackup {
     private $host;
