@@ -2,6 +2,7 @@
 
 /**
  * MySQLBackup - A class to backup specified MySQL databases and tables
+ * © 2023 RAMAZAN ÇETİNKAYA, All rights reserved.
  *
  * @author [ramazancetinkaya]
  * @date [23.01.2023]
