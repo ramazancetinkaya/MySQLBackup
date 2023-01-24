@@ -1,7 +1,7 @@
 # MySQLBackup
 A class that takes database backup written in PHP.
 
-To use this class, you would first need to instantiate it with the appropriate parameters.
+## To use this class, you would first need to instantiate it with the appropriate parameters.
 
 Here is an example of how you would use it to backup a MySQL database named "mydb" with the tables "users" and "orders" to a file named "backup.sql" in the "backups" directory:
 
