@@ -39,7 +39,7 @@ try {
 }
 ```
 
-### Author
+### Authors
 
 **Ramazan Çetinkaya**
 
