@@ -1,4 +1,4 @@
-# MySQLBackup
+# MySQL Backup
 A class that takes database backup written in PHP.
 
 ## To use this class, you would first need to instantiate it with the appropriate parameters.
